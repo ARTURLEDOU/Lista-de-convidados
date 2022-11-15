@@ -1,0 +1,29 @@
+body{
+    background-color: LightSeaGreen;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+
+}
+
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 63px;
+    text-align: center;
+}
+
+input{
+border: none;
+border-radius: 2px;
+width: 160px;
+height: 25px;
+box-shadow: 2px;
+}
+
+.bttn{
+color:LightSeaGreen ;
+width: 200px;
+height: 90;
+margin: 10px;
+border: none;
+
+}
